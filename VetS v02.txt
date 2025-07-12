@@ -1,0 +1,1663 @@
+VetS "Veritas et Sapientia"
+	000 - Depot 
+	100 - Metaphysics
+	200 - Epistemology
+		210 - Epistemics 
+			210A - Epistemics Depot
+				21AF - Maps
+			210B - Epistemics Assets
+			210C -Epistemics Products
+				210CF - Active
+				210CG - Built 
+				210CH - Ongoing
+			210D - Epistemics Praxis
+				210DF - Scientific Method
+				210DG - Street Epistemology
+			210E - Epistemics General
+			210Z - Epistemics History
+			211 - Metaepistemology
+			212 - Knowledge
+				212A - Depot
+				212F - Nature
+				212G - Types
+				212H - Sources
+			213 - Truth
+			214 - Justification
+			215 - Belief
+			216 - Problems
+		220 - Form
+			220A - Depot
+				220AF - Maps
+			220B - Assets
+			220C - Products
+				220CF - Active
+				220CG - Built 
+				220CH - Ongoing
+			220D - Praxis
+			220E - General
+				220EF - Number Theory
+				220EG - Arithmetic
+			220Z - History
+			221 - Logic & Sets
+				221A - Depot
+					221AF - Maps
+				221B - Assets
+				221C - Products
+					221CF - Active
+					221CG - Built 
+					221CH - Ongoing
+				221D - Praxis
+				21E - General
+				21Z - History
+				221F - Propositional Logic
+				221G - Predicate Logic
+				221H - Modal Logic
+				221J - Naive Set Theory
+				221K - Axiomatic Set Theory
+				221Z - History
+			222 - Algebra
+				222A - Depot
+					222AF - Maps
+				222B - Assets
+				222C - Products
+					222CF - Active
+					222CG - Built 
+					222CH - Ongoing
+				222D - Praxis
+				222E - General
+				222H - Algebra 1 & 2
+				222J - Linear Algebra
+				222K - Abstract Algebra
+				222Z - History
+			223 - Geometry
+				223A - Depot
+					223AF - Maps
+				223B - Assets
+				223C - Products
+					223CF - Active
+					223CG - Built 
+					223CH - Ongoing
+				223D - Praxis
+				223E - General
+				223Z - History
+				223F - Euclidean
+				223G - Non-Euclidean
+				223H - Differential
+				223J - Trigonometry 
+				223K - Topology
+			225 - Analysis
+				225A - Depot
+					21AF - Maps
+				225B - Assets
+				225C - Products
+					225CF - Active
+					225CG - Built 
+					225CH - Ongoing
+				225D - Praxis
+				225E - General
+				225Z - History
+				225F - Integral Calculus
+				225G - Differential Calculus
+				225H - Probability
+				225J - Statistics
+		230 - Matter
+			230A - Depot 
+				230AF - Maps
+			230B - Assets
+			230C - Products
+				230CF - Active
+				230CG - Built 
+				230CH - Ongoing
+			230D - Praxis
+			230E - General
+			230Z - History
+			231 - Physics "This covers everything from the smallest part of matter up to the level of molecules and atoms in general. All other aspects are covered in higher fields that apply physics to them. General Relativity, Classical Mechanics, and Thermodynamics in general are the exceptions."
+				231A - Depot
+					231AF - Maps
+				231B - Assets
+				231C - Products
+					231CF - Active
+					231CG - Built 
+					231CH - Ongoing
+				231D - Praxis
+				231E - General 
+					231EG - Dimensions
+						1D Lines.md
+						2D Planes & Surfaces.md
+						3D Bodies & Spaces.md
+						Hyperspace.md
+						Time.md
+						Non-Euclindean Spaces.md
+					Units Scalars & Vectors.md
+				231F - Particles  
+					231FF - Fundamental Particles
+						Quarks.md
+						Leptons.md
+						Bosons.md  
+					231FG - Fundamental Forces
+						Gravitational Force.md
+						Electromagnetic Force.md
+						Weak Nuclear Force.md
+						Strong Nuclear Force.md
+					231FH - Matter & Energy
+						Matter.md
+						Antimatter.md 
+						Energy.md 
+					231FJ - Particle Decay  
+					231FZ - QFT "framework for particle interactions at quantum scales"  
+					231FZ - Special Relativity "Theory describing the behavior of objects moving at high speeds" 
+					231FZ - Quantum Mechanics "Theory describing the behavior of matter and energy at very small scales" 
+					231FZ - General Relativity "Theory describing gravitation in the framework of spacetime curvature"
+					231FZ - Theories & Laws
+						Standard Model.md  
+				231G - Atoms  
+					231GF - Theories & Laws
+						Atomic Theory.md  
+					231GG - Protons  
+					231GH - Neutrons  
+					231GJ - Isotopes  
+					231GK - Electrons  
+					231GL - Nuclear Forces
+						See 231FG - Fundamental Forces.md
+					231GM - Nuclear Reactions
+						Fusion.md
+						Fission.md  
+				231H - Molecules
+					See 232GG - Molecules in General.md
+				231J - Classical Mechanics
+					231JF - Statics
+					231JG - Kinetics
+					231JH - Dynamics
+					231JJ - Fluids
+						231JJF - Hydrodynamics
+						231JJG - Aerodynamics
+					231JK - Waves
+					231JL - Oscillations
+					231JM - Vibrations
+					231JN - Acoustics
+					231JZ - Theories & Laws
+						231JZF - Newtons Laws
+				231K - Electromagnetism
+					231KF - Electrostatics
+					231KG - Electrodynamics
+					231KH - Magnetostatics 
+					231KJ - Electromagnetic Waves
+					231KK - Optics  
+				231L - Thermodynamics
+				231Z - Theoretical Physics  
+				231Z - History
+			232 - Chemistry "This covers matter from named atoms (i.e. elements), their derivatives (e.g. isotopes, ions, etc.), and certain molecules. Anything smaller is covered in Physics. Anything specific to living systems is in Biology or Biochemistry, man-made molecules will be placed in respective disciplines" 
+				232A - Depot "Many chemical types and molecular types will get placed here until built out organically in the future."  "Molecules found in nature, not unique to being man-made and not unique to living systems."  "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc."
+					232AF - Maps
+						Inorganic and Organic Chemistry Molecules MOC.md  "Molecules found in nature, not unique to being man-made and not unique to living systems."  "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc." "A molecule that is in a drug, metal, plastic, industrial chemical, or something else will best be placed in the respective field. The .md file for that molecule with label it as a particular type of molecule which will ultimately link back here. A template should be created for molecules to describe exactly what they are and where they fall regarding different categories and sub-categories."
+						Replace with elements MOC Shortcut.md
+						Replace with Biochemistry Molecules shortcut.md
+						Replace with Technology based molecules shortcut this may be a running MOC.md
+					232AG - Molecules Unorganized  "Note - This will be an alphabetical list of the molecules by whatever name makes most sense at the time until further organized. MOCs will have to be built and placed in their respective folders for the various classifications regarding different naming, ochem vs inochem, and other e.g. acids/ bases/ etc."
+						Reagents.md
+						Indicators.md
+						Catalysts.md
+						Buffers.md
+						Acids.md
+						Oxides.md
+						Bases & Hydroxides.md
+						Salts.md
+					See Inorganic Molecules or Organic Molecules for respective shapes and composition.md
+					"Note - Molecules atoms and ions - elements are located under inorganic chemistry as are the common compounds located there and not in organic chemistry "
+					"Note - Chemical Matter and Structure in General - there are specific structures in organic and inorganic folders"
+					"Note - Molecular shape - topology and morphology - specific shapes are found in their ochem or inochem folders"
+					"Note - Ideally Chemicals Substances Compounds Mixtures will go in their respective inochem/ ochem folder, but the Depot will be the holding point for them instead (e.g. if there are acids, bases, oxides, etc. that ochem and inochem in nature, just dump them all into General under their heading."
+					"Note - Within the molecules lists & MOCs they should have ways to organize alphabetically, by inorganic & organic, and by type e.g. acids, bases, and eventually by higher order types e.g. biochemical, human, poisons, atmospherics, etc. by having the molecule type as inorganic and organic listed there should be something that points to that category if one wants to reference the core file or note."
+				232B - Assets
+				232C - Products
+					232CA - Active
+					232CB - Built
+					232CC - Ongoing
+				232D - Praxis
+					232DF - Laboratory Techniques
+				232E - General
+					232EF - Molecular Fundamentals
+						232EFB - Assets
+							Molecule 232EF Template.md
+						Molecule.md "This will be the core note which will link all molecules, even if they're not listed here"  "A molecule that is in a drug, metal, plastic, industrial chemical, or something else will best be placed in the respective field. The .md file for that molecule with label it as a particular type of molecule which will ultimately link back here. A template should be created for molecules to describe exactly what they are and where they fall regarding different categories and sub-categories."
+						232EFF - Structure
+							Molecular Orbitals.md
+							Electronic Configurations.md
+							Hybridization.md
+							Valence Bonds.md
+							Shapes.md
+							Isotopes.md
+						232EFG - Intramolecular Forces
+							Covalent Bonds.md
+							Ionic Bonds.md
+							Metallic & Coordinate Bonds.md
+						232EFH - Intermolecular Forces
+							Van der Waals Forces.md
+							Hydrogen Bonding.md
+							Dipole-Dipole Interactions.md
+						232EFZ - Theories & Laws  
+				232Z - History
+				232F - Physical Chemistry "Physics applied to chemistry"
+					232FF - Chemical Kinetics
+						232FFF - Molecular Motion
+							Rotational Motion.md
+							Vibrational Motion.md
+							Translational Motion.md
+						Rate Laws.md
+						Reaction Mechanisms.md
+						Combustion & Explosion.md
+					232FG - Electrochemistry "Chemistry involving electron transfer"
+						Oxidation Reduction Reactions.md
+						Electrode Potentials.md
+						Batteries and Fuel Cells.md "This may need to go in another domain or sub-domain since it's more applied chemistry or technology"
+					232FH - Spectroscopy "Interaction of matter with electromagnetic radiation"
+					232FJ - Chemical Thermodynamics
+						232FJF - Solids
+							Crystalline (Crystallography at 232J).md "Crystallography located at 232J"
+							Non-Crystallin.md
+						232FJG - Liquids
+							Surface Tension.md
+							Viscosity & Flow.md
+							Supercritical Fluids.md
+						232FJH - Gases
+							Ideal & Real Gases.md
+						232FJJ - Plasmas
+						232FJK - Phase Change
+							Phase Changes.md
+							Phase Diagrams.md
+							Clausius-Clapeyron Equation.md
+						Acid Base Reactions.md
+						Calorimetry.md
+					232FK - Surface Chemistry "Phenomena at interfaces"
+					232FZ - Sonochemistry
+					232FZ - Quantum Chemistry
+						See 231FZ - Quantum Mechanics.md
+				232G - Inorganic Chemistry
+					232GA - Depot
+						Elements MOC.md
+						Inorganic Molecules MOC.md  "Molecules found in nature, not unique to being man-made and not unique to living systems."  "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc."
+						Replace with Biochemistry Molecules shortcut.md
+						Replace with Technology based molecules shortcut this may be a running MOC.md
+					232GF - Elements
+						01 - Hydrogen.md
+						02 - Helium.md  
+						03 - Lithium.md  
+						04 - Beryllium.md  
+						05 - Boron.md  
+						06 - Carbon.md  
+						07 - Nitrogen.md  
+						08 - Oxygen.md  
+						09 - Fluorine.md  
+						10 - Neon.md  
+						11 - Sodium.md  
+						12 - Magnesium.md  
+						13 - Aluminum.md  
+						14 - Silicon.md  
+						15 - Phosphorus.md  
+						16 - Sulfur.md  
+						17 - Chlorine.md  
+						18 - Argon.md  
+						19 - Potassium.md  
+						20 - Calcium.md  
+						21 - Scandium.md  
+						22 - Titanium.md  
+						23 - Vanadium.md  
+						24 - Chromium.md  
+						25 - Manganese.md  
+						26 - Iron.md  
+						27 - Cobalt.md  
+						28 - Nickel.md  
+						29 - Copper.md  
+						30 - Zinc.md  
+						31 - Gallium.md  
+						32 - Germanium.md  
+						33 - Arsenic.md  
+						34 - Selenium.md  
+						35 - Bromine.md  
+						36 - Krypton.md  
+						37 - Rubidium.md  
+						38 - Strontium.md  
+						39 - Yttrium.md  
+						40 - Zirconium.md  
+						41 - Niobium.md  
+						42 - Molybdenum.md  
+						43 - Technetium.md  
+						44 - Ruthenium.md  
+						45 - Rhodium.md  
+						46 - Palladium.md  
+						47 - Silver.md  
+						48 - Cadmium.md  
+						49 - Indium.md  
+						50 - Tin.md  
+						51 - Antimony.md  
+						52 - Tellurium.md  
+						53 - Iodine.md  
+						54 - Xenon.md  
+						55 - Cesium.md  
+						56 - Barium.md  
+						57 - Lanthanum.md  
+						58 - Cerium.md  
+						59 - Praseodymium.md  
+						60 - Neodymium.md  
+						61 - Promethium.md  
+						62 - Samarium.md  
+						63 - Europium.md  
+						64 - Gadolinium.md  
+						65 - Terbium.md  
+						66 - Dysprosium.md  
+						67 - Holmium.md  
+						68 - Erbium.md  
+						69 - Thulium.md  
+						70 - Ytterbium.md  
+						71 - Lutetium.md  
+						72 - Hafnium.md  
+						73 - Tantalum.md  
+						74 - Tungsten.md  
+						75 - Rhenium.md  
+						76 - Osmium.md  
+						77 - Iridium.md  
+						78 - Platinum.md  
+						79 - Gold.md  
+						80 - Mercury.md  
+						81 - Thallium.md  
+						82 - Lead.md  
+						83 - Bismuth.md  
+						84 - Polonium.md  
+						85 - Astatine.md  
+						86 - Radon.md  
+						87 - Francium.md  
+						88 - Radium.md  
+						89 - Actinium.md  
+						90 - Thorium.md  
+						91 - Protactinium.md  
+						92 - Uranium.md  
+						93 - Neptunium.md  
+						94 - Plutonium.md  
+						95 - Americium.md  
+						96 - Curium.md  
+						97 - Berkelium.md  
+						98 - Californium.md  
+						99 - Einsteinium.md  
+						100 - Fermium.md  
+						101 - Mendelevium.md  
+						102 - Nobelium.md  
+						103 - Lawrencium.md  
+						104 - Rutherfordium.md  
+						105 - Dubnium.md  
+						106 - Seaborgium.md  
+						107 - Bohrium.md  
+						108 - Hassium.md  
+						109 - Meitnerium.md  
+						110 - Darmstadtium.md  
+						111 - Roentgenium.md  
+						112 - Copernicium.md  
+						113 - Nihonium.md  
+						114 - Flerovium.md  
+						115 - Moscovium.md  
+						116 - Livermorium.md  
+						117 - Tennessine.md  
+						118 - Oganesson.md
+					232GH - Inorganic Molecules "Molecules found in nature, not unique to being man-made and not unique to living systems."  "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc."
+						232GHZ - Water
+							232GHZd - Water Praxis 
+							Water - H2O.md  
+						Carbon Dioxide - CO2.md  
+						Carbon Monoxide - CO.md  
+						Oxygen - O2.md  
+						Ozone - O3.md  
+						Nitrogen - N2.md  
+						Ammonia - NH3.md  
+						Methane - CH4.md  
+						Hydrogen - H2.md  
+						Sulfur Dioxide - SO2.md  
+						Sulfur Trioxide - SO3.md  
+						Hydrogen Sulfide - H2S.md  
+						Nitric Oxide - NO.md  
+						Nitrogen Dioxide - NO2.md  
+						Dinitrogen Tetroxide - N2O4.md  
+						Dinitrogen Pentoxide - N2O5.md  
+						Sulfuric Acid - H2SO4.md  
+						Nitric Acid - HNO3.md  
+						Phosphoric Acid - H3PO4.md  
+						Hydrochloric Acid - HCl.md  
+						Hydrofluoric Acid - HF.md  
+						Hydrobromic Acid - HBr.md  
+						Hydroiodic Acid - HI.md  
+						Sodium Chloride - NaCl.md  
+						Potassium Chloride - KCl.md  
+						Magnesium Chloride - MgCl2.md  
+						Calcium Chloride - CaCl2.md  
+						Sodium Carbonate - Na2CO3.md  
+						Calcium Carbonate - CaCO3.md  
+						Sodium Bicarbonate - NaHCO3.md  
+						Silicon Dioxide - SiO2.md  
+						Aluminum Oxide - Al2O3.md  
+						Iron(III) Oxide (Hematite) - Fe2O3.md  
+						Iron(II) Oxide (Wüstite) - FeO.md  
+						Magnetite - Fe3O4.md  
+						Copper(II) Sulfate - CuSO4.md  
+						Zinc Sulfate - ZnSO4.md  
+						Silver Nitrate - AgNO3.md  
+						Barium Sulfate - BaSO4.md  
+						Titanium Dioxide - TiO2.md  
+						Calcium Sulfate (Gypsum) - CaSO4.md  
+						Magnesium Sulfate - MgSO4.md  
+						Potassium Permanganate - KMnO4.md  
+						Sodium Nitrate - NaNO3.md  
+						Potassium Nitrate - KNO3.md  
+						Boron Trioxide - B2O3.md  
+						Phosphorus Pentoxide - P4O10.md  
+						Chlorine - Cl2.md  
+						Fluorine - F2.md  
+						Hydrogen Peroxide - H2O2.md
+						Sodium Hydroxide - NaOH.md  
+						Potassium Hydroxide - KOH.md  
+						Calcium Hydroxide - Ca(OH)2.md  
+						Magnesium Hydroxide - Mg(OH)2.md  
+						Aluminum Hydroxide - Al(OH)3.md  
+						Lithium Hydroxide - LiOH.md  
+						Beryllium Oxide - BeO.md  
+						Strontium Oxide - SrO.md  
+						Barium Oxide - BaO.md  
+						Chromium(III) Oxide - Cr2O3.md  
+						Manganese Dioxide - MnO2.md  
+						Nickel Oxide - NiO.md  
+						Zinc Oxide - ZnO.md  
+						Lead(II) Oxide - PbO.md  
+						Mercury(II) Oxide - HgO.md  
+						Copper(I) Oxide - Cu2O.md  
+						Copper(II) Oxide - CuO.md  
+						Silver Oxide - Ag2O.md  
+						Gold(III) Oxide - Au2O3.md  
+						Platinum(IV) Oxide - PtO2.md  
+						Titanium(IV) Oxide - TiO2.md  
+						Vanadium Pentoxide - V2O5.md  
+						Molybdenum Trioxide - MoO3.md  
+						Tungsten Trioxide - WO3.md  
+						Uranium Dioxide - UO2.md  
+						Thorium Dioxide - ThO2.md  
+						Radium Sulfate - RaSO4.md  
+						Boron Nitride - BN.md  
+						Silicon Carbide - SiC.md  
+						Silicon Tetrachloride - SiCl4.md  
+						Aluminum Chloride - AlCl3.md  
+						Iron(III) Chloride - FeCl3.md  
+						Cobalt(II) Chloride - CoCl2.md  
+						Nickel(II) Chloride - NiCl2.md  
+						Zinc Chloride - ZnCl2.md  
+						Mercury(II) Chloride - HgCl2.md  
+						Calcium Fluoride (Fluorite) - CaF2.md  
+						Barium Fluoride - BaF2.md  
+						Sodium Bromide - NaBr.md  
+						Potassium Iodide - KI.md  
+						Lithium Nitrate - LiNO3.md  
+						Ammonium Chloride - NH4Cl.md  
+						Ammonium Nitrate - NH4NO3.md  
+						Cesium Iodide - CsI.md  
+						Rubidium Chloride - RbCl.md  
+						Sodium Perchlorate - NaClO4.md  
+						Potassium Dichromate - K2Cr2O7.md  
+						Chromyl Chloride - CrO2Cl2.md  
+						Sulfur Hexafluoride - SF6.md  
+						Phosphorus Trichloride - PCl3.md
+				232H - Organic Chemistry
+					232HA - Depot
+						Organic Molecules MOC.md  "Molecules found in nature, not unique to being man-made and not unique to living systems."  "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc."
+						Replace with Biochemistry Molecules shortcut.md
+						Replace with Technology based molecules shortcut this may be a running MOC.md
+					232HF - Organic Molecules "Molecules found in nature, not unique to being man-made and not unique to living systems." "Molecules unique to living systems will be found in biochemistry" "Molecules unique to technology will be found in respective fields e.g. materials science, industrial chemicals, etc."
+						Methane - CH4.md  
+						Ethane - C2H6.md  
+						Propane - C3H8.md  
+						Butane - C4H10.md  
+						Pentane - C5H12.md  
+						Hexane - C6H14.md  
+						Heptane - C7H16.md  
+						Octane - C8H18.md  
+						Nonane - C9H20.md  
+						Decane - C10H22.md  
+						Ethene (Ethylene) - C2H4.md  
+						Propene (Propylene) - C3H6.md  
+						Butene - C4H8.md  
+						Pentene - C5H10.md  
+						Ethyne (Acetylene) - C2H2.md  
+						Benzene - C6H6.md  
+						Toluene - C7H8.md  
+						Xylene - C8H10.md  
+						Styrene - C8H8.md  
+						Phenanthrene - C14H10.md  
+						Anthracene - C14H10.md  
+						Naphthalene - C10H8.md  
+						Pyrene - C16H10.md  
+						Fluoranthene - C16H10.md  
+						Benzo[a]pyrene - C20H12.md  
+						Carbazole - C12H9N.md  
+						Indole - C8H7N.md  
+						Pyrrole - C4H5N.md  
+						Furan - C4H4O.md  
+						Thiophene - C4H4S.md  
+						Pyridine - C5H5N.md  
+						Quinoline - C9H7N.md  
+						Isoquinoline - C9H7N.md  
+						Cyclohexane - C6H12.md  
+						Cyclopentane - C5H10.md  
+						Formic Acid - HCOOH.md  
+						Acetic Acid - CH3COOH.md  
+						Propionic Acid - C2H5COOH.md  
+						Benzoic Acid - C7H6O2.md  
+						Salicylic Acid - C7H6O3.md  
+						Lactic Acid - C3H6O3.md  
+						Citric Acid - C6H8O7.md  
+						Malic Acid - C4H6O5.md  
+						Tartaric Acid - C4H6O6.md  
+						Oxalic Acid - C2H2O4.md  
+						Acetone - C3H6O.md  
+						Formaldehyde - CH2O.md  
+						Acetaldehyde - C2H4O.md  
+						Ethanol - C2H5OH.md  
+						Methanol - CH3OH.md 
+						Undecane - C11H24.md  
+						Dodecane - C12H26.md  
+						Tridecane - C13H28.md  
+						Tetradecane - C14H30.md  
+						Pentadecane - C15H32.md  
+						Hexadecane - C16H34.md  
+						Heptadecane - C17H36.md  
+						Octadecane - C18H38.md  
+						Nonadecane - C19H40.md  
+						Eicosane - C20H42.md  
+						Propadiene - C3H4.md  
+						Butadiene - C4H6.md  
+						Isoprene - C5H8.md  
+						Cyclopropane - C3H6.md  
+						Cyclobutane - C4H8.md  
+						Cyclopentene - C5H8.md  
+						Cycloheptane - C7H14.md  
+						Cyclooctane - C8H16.md  
+						Methylcyclopentane - C6H12.md  
+						Methylcyclohexane - C7H14.md  
+						Tetrahydrofuran - C4H8O.md  
+						Dimethyl Ether - C2H6O.md  
+						Diethyl Ether - C4H10O.md  
+						Chloroform - CHCl3.md  
+						Carbon Tetrachloride - CCl4.md  
+						Bromoform - CHBr3.md  
+						Dichloromethane - CH2Cl2.md  
+						Tetrachloroethylene - C2Cl4.md  
+						Trichloroethylene - C2HCl3.md  
+						Ethyl Acetate - C4H8O2.md  
+						Methyl Acetate - C3H6O2.md  
+						Diethyl Carbonate - C5H10O3.md  
+						Propylene Oxide - C3H6O.md  
+						Epichlorohydrin - C3H5ClO.md  
+						Furfural - C5H4O2.md  
+						Levulinic Acid - C5H8O3.md  
+						Muconic Acid - C6H6O4.md  
+						Adipic Acid - C6H10O4.md  
+						Sebacic Acid - C10H18O4.md  
+						Glutaric Acid - C5H8O4.md  
+						Acrylic Acid - C3H4O2.md  
+						Maleic Acid - C4H4O4.md  
+						Fumaric Acid - C4H4O4.md  
+						Cinnamic Acid - C9H8O2.md  
+						Gallic Acid - C7H6O5.md  
+						Ellagic Acid - C14H6O8.md  
+						Vanillic Acid - C8H8O4.md  
+						Syringic Acid - C9H10O5.md  
+						Ferulic Acid - C10H10O4.md
+				232J - Crystallography
+					232JF - Formal Crystallography "Mathematics applied to Crystallography "
+					232JG - Physical Crystallography "Physics applied to Crystallography "
+						Symmetry & Space Groups.md
+						Twinning & Defects.md
+						Optical Properties.md
+						Thermal and Electrical Behavior.md
+					232JH - Chemical Crystallography
+						X-ray Crystallography.md
+						Neutron Diffraction.md
+						Electron Diffraction.md
+					232JJ - Structural Crystallography
+						Cubic.md
+						Tetragonal.md
+						Orthorhombic.md
+						Monoclinic.md
+						Triclinic.md
+						Hexagonal.md
+						Trigonal.md
+						Bravais Lattices.md
+					232JK - Crystal Growths & Aggregates
+			233 - Earth "Certain biological impacts will be placed here, e.g. impacts on geomorphology, but the biological organisms will link to their respective page in biology. This is how most links should function going forwards where there are feedback loops."
+				233E - General
+					Earths Properties.md
+				233F – Geosphere
+					233FA - Depot
+						Landforms.md
+					233FE - General
+						Geology.md
+					233FF – Geophysics
+						233FFF – Geodesy
+							Geoid.md
+							Reference Ellipsoid.md
+							Geodetic Datums.md
+							Satellite Geodesy.md
+						233FFG – Geoelectrics
+							Electrical Resistivity.md
+							Induced Polarization.md
+						233FFH – Geomagnetism
+							Earth’s Magnetic Field.md
+							Magnetic Pole Reversals.md
+							Magnetic Field Variations.md
+							Magnetometry.md
+							Paleomagnetism.md
+						233FFJ – Geothermics
+							Heat Flow.md
+							Geothermal Gradients.md
+							Geothermal Energy.md
+						233FFK – Gravimetry
+							Gravity Anomalies.md
+							Isostatic Compensation.md
+					233FG – Geochemistry
+						233FGF – Chemical Reserves
+							Mineral Deposits.md
+							Hydrocarbon Reserves.md
+						233FGG – Geochemical Cycles
+							Carbon Cycle.md
+							Nitrogen Cycle.md
+							Sulfur Cycle.md
+					233FH – Mineralogy
+						233FHF – Mineral Genesis
+							Magmatic Crystallization.md
+							Hydrothermal Precipitation.md
+						233FHG – Mineral Classification
+							Silicates.md
+							Carbonates.md
+							Oxides.md
+							Sulfides.md
+						233FHH – Mineral Properties
+							Hardness.md
+							Cleavage.md
+							Streak.md
+							Refractive Index.md
+					233FJ – Petrology
+						233FJF – Igneous Petrology
+							Intrusive Rocks.md
+							Extrusive Rocks.md
+						233FJG – Sedimentary Petrology
+							Clastic Sediments.md
+							Chemical Sediments.md
+						233FJH – Metamorphic Petrology
+							Regional Metamorphism.md
+							Contact Metamorphism.md
+						233FJJ – Petrogenesis
+							Melting Processes.md
+							Metamorphic Reactions.md
+						233FJK – Petrophysics
+							Porosity.md
+							Permeability.md
+					233FK – Geostructure
+						233FKF – Independent Layers
+							Core.md
+							Mantle.md
+							Crust.md
+						233FKG – Mechanical Layers
+							Asthenosphere.md
+							Lithosphere.md
+							Boundries.md
+							Equilibrium Dynamics.md
+					233FL – Tectonics 
+						233FLF – Plates
+							Plate Boundaries.md
+						233FLG – Plate Movement
+							233FLGf - Convergent.md
+								Orogenesis.md
+								Subduction Zones.md
+							233FLGg - Divergent.md
+								Rift Zones.md
+							233FLGh - Transform.md 
+							Plate Movement.md
+						233FLH – Faults
+							Normal Faults.md
+							Reverse (Thrust) Faults.md
+							Strike-Slip Faults.md
+						233FLJ – Folding
+							Anticlines .md
+							Synclines .md
+							Monoclines.md
+						233FLK – Isostasy
+					233FM – Seismology
+						233FMF – Concepts
+							Elastic Rebound Theory.md
+							Seismic Cycle.md
+							Stress and Strain in Rocks.md
+						233FMG – Waves & Propagation
+							Body Waves.md
+							Surface Waves.md
+							Wave Attenuation.md
+							Wave Reflection & Refraction.md
+							Seismic Tomography.md
+							Moho Discontinuity.md
+						233FMH – Earthquake Types
+							Tectonic Earthquakes.md
+							Volcanic Earthquakes.md
+							Induced Seismicity.md
+							Collapse Earthquakes.md
+						233FMJ – Seismic Scales
+							Moment Magnitude Scale.md
+							Richter Scale.md
+							Modified Mercalli Intensity Scale.md
+						233FMK – Seismic Hazards
+							Ground Shaking.md
+							Earthquakes.md 
+							Tsunami Generation.md
+						233FML – Instrumentation
+							Seismometers.md
+							Accelerometers.md
+					233FN – Exogenic Landform Processes  "Internal Processes (e.g. Tectonic, Geothermal, Volcanic) will be found in their respective areas"
+						Internal Processes will be found in their respective areas "e.g., Tectonic, Geothermal, Volcanic".
+						Weathering Processes.md
+						Transportation Processes.md
+						Mass Wasting Processes.md
+						Erosional Processes.md "e.g., Wearing away material by water, wind, or ice."
+						Depositional Processes.md "e.g., Accumulating sediment by wind, water, or ice."
+						Gravitational Processes.md "e.g., Shifting or sinking material due to gravity."
+						Chemical Processes.md "e.g., Forming or altering land via organisms or chemistry."
+					233FP – Elevated Landforms "To reduce file name sizes where there will likely be more sub-folders (e.g. 233JF* - Mountains) it would be better to give it a dedicated code (e.g. 233JFM, for mountain to make it somewhat alphabetical, or 233JFF if it's likely one of the most referenced and used things that's good to have at the top). The problem with this vs using a 'Z' designator is the simple fact that there are more entities within the folder "233JF - Elevated Landforms" than the alphabet can encode for (i.e. more than 26 entities). If that number is exceeded, it will then be necessary to create new folders that will help break things up (e.g. Small Elevated Landforms, Medium Elevated Landforms, Large Elevated Landforms)."
+						233FPF – Elevated Landform Features
+							Spur.md "e.g., Short minor ridge off a main ridge."
+							Draw.md "e.g., Narrow incised slope channel, better as depressed."
+						233FPM – Mountains
+							Mountains.md "e.g., Large high peaked elevation."
+							Mount Everest.md
+						233FPN - Mountain Ranges
+							Mountain Ranges.md
+						233FPP - Mountain Range Systems
+						233FPV – Volcanos
+							Volcanos.md
+							233FPVa – Volcano Types
+								Shield Volcanoes.md
+								Stratovolcanoes.md
+								Cinder Cones.md
+							233FPVb – Volcanic Features
+								Lava Tubes.md
+								Fumaroles.md
+							233FPVc – Volcanic Processes
+								Eruptive Activity.md
+								Volcanic Intrusion.md
+								Lava Flows.md
+								Pyroclastic Eruptions.md
+							233FPVd – Volcanic Hazards
+								Ash Falls.md
+								Lahars.md
+							233FPVe – Volcanic Deposits
+								Tephra.md
+								Ignimbrites.md
+						Pingo.md "Small rounded ice cored mound in periglacial regions."
+						Mound.md "Small low broad raised area."
+						Moraine.md "Glacial debris forming ridges or mounds."
+						Esker.md "Long narrow winding ridge from subglacial streams."
+						Berm.md "Narrow flat topped ridge or ledge."
+						Hummock.md "Small rounded or irregular hillock."
+						Dune (sandhill).md "Hill or ridge of loose sand."
+						Butte.md "Small isolated flat topped hill with steep sides."
+						Hill (knoll).md "Small gentle rounded elevation; knoll is minor."
+						Drumlin.md "Smooth oval elongated hill of glacial till."
+						Hoodoo (pinnacle).md "Tall narrow pointed spire of rock."
+						Karst Tower (tower karst).md "Steep sided abrupt limestone hill."
+						Stack (sea stack - pillar).md "Sharp isolated rock column, often coastal."
+						Mesa.md "Medium flat topped landform with steep sides."
+						Monolith.md "Single massive abrupt rock outcrop."
+						Inselberg.md "Isolated broad hill or mountain from a plain."
+						Highlands (Uplands).md "Broad elevated region with varied relief."
+						Tableland.md "Very broad flat high area."
+						Plateau (high plain).md "Extensive elevated flat or rolling area."
+						Ridge.md "Long narrow elevated crest."
+						Summit (Peak).md "Highest point on a mountain or ridge."
+						Gully (ravine - gulch).md "Narrow incised slope channel, better as depressed."
+						Arête.md "Sharp knife edged ridge with steep sides."
+						Hogback.md "Sharp tilted ridge from steep strata."
+						Cuesta.md "Asymmetrical ridge with one steep slope."
+						Pass (Saddle - Col).md "Low gap in a ridge or mountain."
+						Gap (notch - defile).md "Narrow break in terrain, better as depressed."
+						Tor (crag).md "Rocky jagged outcrop on a summit or hill."
+						Cirque (corrie).md "Amphitheater hollow on a mountainside, better as depressed."
+					233FQ – Elevated to Flat Transitions
+						Foothills (Piedmont).md "e.g., Rolling terrain from mountains to plains."
+						Pediment.md "e.g., Gentle sloping surface from mountains to lowlands."
+						Pediplain.md "e.g., Broad flat area of merged pediments."
+						Alluvial Fan.md "e.g., Fan shaped sediment slope at a mountain front."
+						Talus Slope (scree).md "e.g., Loose rock debris on a steep slope."
+						Cliff.md "e.g., Near vertical steep rock face."
+						Bluff.md "e.g., Rounded or steep bank, often by water."
+						Escarpment (scarp).md "e.g., Large steep slope between elevation levels."
+						Natural Arch (Bridge).md "e.g., Rock span with an opening underneath."
+					233FR – Flat Landforms
+						Plain (flatland).md "e.g., Broad level expanse."
+						Alluvial Plain.md "e.g., Flat area from river sediment."
+						Steppe (grassland).md "e.g., Extensive semiarid flat plain."
+						Prairie.md "e.g., Grassy low relief plain."
+						Tundra.md "e.g., Cold flat treeless plain."
+						Desert.md
+						Terrace.md "e.g., Step like flat surface above lower land."
+					233FS – Flat to Depressed Transitions
+						Badlands.md "e.g., Eroded low terrain with gullies and ridges."
+					233FT – Depressed Landforms
+						Cave (karst cave - sea cave).md "e.g., Underground or cliffside hollow chamber."
+						Blowhole.md "e.g., Narrow vertical coastal rock shaft."
+						Kettle.md "e.g., Small rounded depression from melted ice."
+						Sinkhole (doline).md "e.g., Steep closed depression in karst."
+						Crater (volcanic - impact).md "e.g., Circular bowl shaped depression."
+						Caldera.md "e.g., Large deep volcanic crater."
+						Couloir.md "e.g., Steep narrow gully in mountains."
+						Basin.md "e.g., Broad bowl like depression."
+						Canyon (gorge).md "e.g., Deep narrow steep sided valley."
+						Valley (dale).md "e.g., Long broad depression between high ground."
+						Rift Valley.md "e.g., Long deep faulted trough."
+					233FU – Land to Water Transitions
+						Beach.md "Flat or sloping sediment along a shore."
+						Delta.md "Fan shaped sediment at a river mouth."
+						Cove.md "Small sheltered rounded bay."
+						Peninsula (cape - headland).md "Land projecting into water on most sides."
+						Promontory.md "High pointed land into water."
+						Spit (sandspit).md "Narrow sand projection into water."
+						Isthmus.md "Narrow land between two water bodies."
+						Tombolo.md "Sediment bar linking an island to land."
+						Island (Islet).md "Land surrounded by water."
+						Atoll.md "Ring shaped reef or island with a lagoon."
+						Barrier Island.md "Long narrow island parallel to coast."
+						Archipelago.md "Cluster of islands."
+						Coastal Plain.md "Low flat plain by a coastline."
+						Sabkha (salt flat).md "Flat with salty deposits."
+					233X - Geochronology
+						233XF – Geologic Time Scale
+							Eons.md
+							Eras.md
+							Periods.md
+							Epochs.md
+						233XG – Paleogeography
+							Supercontinents.md
+							Plate Movements Over Time.md
+				233G – Hydrosphere
+					233GF – Hydrophysics
+					233GG – Hydrochemistry
+						233GGF – Saltwater Chemistry
+							Salinity Principles.md
+							Dissolved Gas Dynamics.md 
+							Acidification Mechanisms.md
+						233GGG – Freshwater Chemistry
+							Nutrient Cycling.md
+							Eutrophication Mechanisms.md
+							Dissolved Solids Variation.md
+					233GH – Hydrostructure
+						Hydrosphere Composition.md "Oceanic, continental, cryo, and atmospheric" 
+						233GHF – Saltwater Framework
+							Saline Layering Principles.md "e.g., depth zonation basics"
+							Saline Density Structure.md
+							Saline Organic Matrix.md
+						233GHG – Freshwater Framework
+							Freshwater Layering Principles.md "e.g., thermocline basics"
+							Ice Structure Dynamics.md
+							Soil Moisture Profiles.md
+						233GHH – Biological Framework
+							Ecosystem Water Storage.md
+					233GJ – Hydrodynamics
+						233GJF – Marine Dynamics
+							Circulation Principles.md "e.g., thermohaline basics"
+							Current Dynamics.md
+							Tidal Mechanics.md
+						233GJG – Freshwater Dynamics
+							Flow Principles.md "e.g., riverine basics"
+							Recharge Dynamics.md
+							Spring Flow Mechanics.md
+						233GJH – Water Cycle Processes
+							Evaporation.md "e.g., general process from liquid surfaces"
+							Transpiration.md "e.g., general plant-mediated vapor release"
+							Infiltration.md "e.g., general water into soil"
+							Runoff.md "e.g., general surface flow"
+							Subsurface Flow.md "e.g., general underground movement"
+							Sublimation.md "e.g., general ice to vapor"
+						233GJJ – Biological Flow
+							Transpiration Principles.md "e.g., general plant water movement"
+					233GK – Hazard Principles
+						233GKF – Saltwater Hazards
+							Storm Surge Principles.md
+							Tsunami Dynamics.md
+							Coastal Erosion Risks.md
+						233GKG – Freshwater Hazards
+							Flooding Principles.md
+							Drought Dynamics.md
+							Contamination Risks.md
+					233GL – Oceans
+						Pacific Ocean.md
+						Atlantic Ocean.md
+						Indian Ocean.md
+						Southern Ocean.md
+						Arctic Ocean.md
+						233GLF – Zones
+							Littoral Zone.md
+							Neritic Zone.md
+							Oceanic Zone.md
+							Epipelagic Zone.md
+							Mesopelagic Zone.md
+							Bathypelagic Zone.md
+							Abyssopelagic Zone.md
+							Hadalpelagic Zone.md
+						233GLG – Features
+							Continental Shelves.md
+							Continental Slopes.md
+							Abyssal Plains.md
+							Oceanic Trenches.md "e.g., Mariana Trench"
+							Mid-Ocean Ridges.md
+							Seamounts.md
+							Coral Reefs.md "e.g., Great Barrier Reef"
+							Brine Pools.md
+							Hydrothermal Vents.md
+						233GLH – Currents
+							Gulf Stream.md
+							Kuroshio Current.md
+							Antarctic Circumpolar Current.md
+						233GLJ – Chemistry
+							Oceanic Salinity Gradients.md
+							Oceanic CO2 Uptake.md
+							Oceanic Acidification Trends.md
+						233GLK – Structure
+							Oceanic Layering.md
+							Oceanic Density Stratification.md
+						233GLL – Dynamics
+							Oceanic Thermohaline Circulation.md
+							Oceanic Surface Current Dynamics.md
+							Oceanic Tidal Movements.md
+							Oceanic Evaporation.md "e.g., Pacific-specific rates"
+							Oceanic Runoff Input.md "e.g., coastal inflows"
+						233GLM – Hazards
+							Oceanic Storm Surges.md "e.g., Atlantic-specific"
+							Oceanic Tsunamis.md "e.g., Indian Ocean-specific"
+					233GM – Seas
+						Open Seas.md "e.g., Sargasso Sea"
+						Marginal Seas.md "e.g., Mediterranean Sea"
+						Enclosed Seas.md "e.g., Black Sea"
+						233GMF – Chemistry
+							Sea-Specific Salinity.md
+						233GMG – Dynamics
+							Sea-Specific Currents.md
+							Sea-Specific Evaporation.md
+						233GMH – Hazards
+							Sea-Specific Storm Surges.md "e.g., Mediterranean-specific"
+					233GN – Transitional Waters
+						Estuaries.md "e.g., Chesapeake Bay"
+						Deltas.md "e.g., Mississippi Delta"
+						Lagoons.md "e.g., Venice Lagoon"
+						Gulfs.md "e.g., Gulf of Mexico"
+						Bays.md "e.g., Hudson Bay"
+						Straits.md "e.g., Strait of Gibraltar"
+						Tidal Flats.md
+						233GNF – Chemistry
+							Brackish Salinity.md
+						233GNG – Dynamics
+							Tidal Mixing.md
+							Estuarine Runoff.md "e.g., Chesapeake-specific"
+						233GNH – Hazards
+							Estuarine Flooding.md "e.g., Chesapeake-specific"
+					233GP – Lakes and Lentics
+						Natural Lakes.md "e.g., Lake Baikal"
+						Artificial Lakes.md "e.g., Lake Mead"
+						Ponds.md
+						Reservoirs.md
+						Oxbow Lakes.md
+						Playas.md
+						233GPF – Chemistry
+							Lake Nutrient Levels.md
+						233GPG – Structure
+							Lake Thermoclines.md
+						233GPH – Dynamics
+							Lake Evaporation.md "e.g., Baikal-specific"
+						233GPJ – Hazards
+							Lake Flooding.md "e.g., Mead-specific"
+					233GQ – Rivers and Lotics
+						Rivers.md "e.g., Nile, Amazon"
+						Streams.md "e.g., Perennial, Intermittent"
+						Waterfalls.md "e.g., Niagara Falls"
+						Rapids.md
+						233GQF – Dynamics
+							River Discharge.md
+							River Runoff.md "e.g., Amazon-specific"
+						233GQG – Hazards
+							River Flooding.md "e.g., Nile-specific"
+					233GR – Wetlands
+						Marshes.md "e.g., Everglades"
+						Swamps.md "e.g., Louisiana Bayous"
+						Bogs.md
+						Fens.md
+						Mangroves.md
+						233GRF – Chemistry
+							Wetland Nutrient Cycling.md
+						233GRG – Dynamics
+							Wetland Infiltration.md "e.g., Everglades-specific"
+						233GRH – Hazards
+							Wetland Flooding.md "e.g., Everglades-specific"
+					233GS – Groundwater
+						Aquifers.md "e.g., Ogallala Aquifer"
+						Springs.md "e.g., Hot Springs"
+						Seeps.md
+						Subterranean Rivers.md
+						Karst Systems.md
+						233GSF – Dynamics
+							Aquifer Recharge.md
+							Groundwater Infiltration.md "e.g., Ogallala-specific"
+							Subsurface Flow.md "e.g., karst-specific"
+						233GSG – Hazards
+							Groundwater Contamination.md "e.g., Ogallala-specific"
+					233GT – Cryosphere
+						Glaciers.md "e.g., Himalayan Alpine"
+						Ice Sheets.md "e.g., Greenland"
+						Ice Caps.md "e.g., Vatnajökull"
+						Ice Shelves.md "e.g., Ross Ice Shelf"
+						Icebergs.md
+						Sea Ice.md "e.g., Arctic Pack"
+						Permafrost.md "e.g., Siberian Continuous"
+						Seasonal Snow.md
+						233GTF – Cryochemistry
+							Ice Chemistry Principles.md
+							Permafrost Chemical Release.md
+							Snowpack Contamination.md
+							Ice Contaminants.md
+						233GTG – Cryodynamics
+							Glacial Flow.md
+							Cryospheric Sublimation.md "e.g., Greenland-specific"
+						233GTH – Hazards
+							Glacial Melt Flooding.md "e.g., Himalayan-specific"
+							Avalanche Events.md "e.g., Alpine-specific"
+							Avalanche Principles.md
+							Glacial Melt Flooding.md "e.g., glacial lake outburst floods"
+							Permafrost Collapse Risks.md
+				233H – Atmosphere
+					233HA - Depot
+					233HD - Praxis
+						223HDF -  Weather Forecasting
+							Weather Models.md
+							Radar Systems.md
+							Satellite Observations.md
+							Surface Observations.md
+						233HDG – Climate Modeling 
+							General Circulation Models.md 
+							Regional Climate Models.md
+							Climate Projections.md)
+					233HF – Aerophysics
+						233HFF – Aerodynamics
+							Wind.md
+							Wind Flow Principles.md "e.g., general horizontal air movement"
+							Advection.md "e.g., general air mass movement across layers"
+							Atmospheric Cycle Processes.md "e.g., general evaporation-condensation-precipitation cycle"
+							Vertical Motion Dynamics.md "e.g., universal uplift and subsidence principles"
+						Air Density.md "e.g., tropospheric vs. stratospheric variations"
+						Specific Heat Capacity.md "e.g., atmospheric applications"
+						Compressibility.md "e.g., general air behavior"
+						Temperature Gradients.md "e.g., warm surface vs. cooler aloft"
+						Pressure Differences.md "e.g., local highs vs. lows"
+						Moisture Content.md "e.g., humid air vs. dry air"
+					233HG – Aerochemistry
+						233HGF – Lower Atmosphere Chemistry
+							Nitrogen Cycles.md
+							Oxygen Cycles.md
+							Tropospheric Smog.md
+						233HGG – Upper Atmosphere Chemistry
+							Ozone Dynamics.md
+							UV Radiation Effects.md
+							Ionospheric Chemistry.md
+						233HGH – Climate Chemistry
+							Greenhouse Gas Trends.md
+							Carbon Dioxide Cycles.md
+							Methane Dynamics.md
+							Nitrous Oxide Trends.md
+							Aerosol Impacts.md
+							Ocean Acidification Trends.md "e.g., CO2-driven"
+					233HH – Aerostructure
+						233HHF – Troposphere
+							Troposphere.md
+							Boundary Layer.md
+							Tropopause.md
+						233HHG – Stratosphere
+							Stratosphere.md
+							Stratopause.md
+							Ozone Layer.md
+						233HHH – Mesosphere
+							Mesosphere.md
+							Mesopause.md
+						233HHJ – Thermosphere
+							Thermosphere.md
+							Thermopause.md
+							Ionosphere.md
+						233HHK – Exosphere
+							Exosphere.md
+						Layering Principles.md "e.g., vertical zonation basics across all layers"
+						Pressure Gradients.md "e.g., universal atmospheric pressure decrease with altitude"
+						Thermal Structure.md "e.g., temperature variation principles across layers"
+					233HK – Global Weather Dynamics
+						Solar Insolation.md "e.g., equatorial heating"
+						Jet Streams.md "e.g., polar jet"
+						ENSO Patterns.md "e.g., El Niño warming"
+						General Circulation.md "e.g., Hadley Cell"
+					233HL – Regional Weather Dynamics
+						Air Masses.md "e.g., Maritime Tropical"
+						Regional Pressure Systems.md "e.g., Bermuda High"
+						Regional Winds.md "e.g., Santa Ana"
+						Geosphere Effects.md
+						Hydrosphere Effects.md
+					233HM – Local Weather Dynamics
+						233HMF – Weather Triggers
+							Temperature Changes.md
+							Moisture Changes.md
+							Pressure Changes.md
+						Local Topography.md "e.g., hills altering flow"
+						Local Frontal Interactions.md "e.g., cold front segments"
+						Local Moisture Sources.md "e.g., lakes"
+						Surface Conditions.md "e.g., urban heat islands"
+						Surface Albedo.md
+					233HN – Clouds
+						Cumulus Clouds.md "e.g., from warming"
+						Stratus Clouds.md "e.g., from cooling/humidifying"
+						Cirrus Clouds.md "e.g., from high-altitude pressure shift"
+						Nimbostratus Clouds.md "e.g., from sustained humidity"
+						Cumulonimbus Clouds.md "e.g., from intense warming"
+						Altocumulus Clouds.md "e.g., from mid-level instability"
+						Altostratus Clouds.md "e.g., from stable humidifying"
+						Stratocumulus Clouds.md "e.g., from mixed cooling/pressure"
+						Cloud Layering.md "e.g., cumulus base height"
+						Cloud Formation Dynamics.md "e.g., convection"
+					233HP – Storms
+						233HPF – Storm Features
+							Thunderstorms.md "e.g., from cumulonimbus growth"
+							Hurricanes.md "e.g., from sustained warmth/humidity"
+							Tropical Storms.md "e.g., pre-hurricane stage"
+							Tornadoes.md "e.g., from thunderstorm shear"
+					233HQ – Weather Events
+						233HQF – Precipitation
+							Rain.md "e.g., from nimbostratus"
+							Snow.md "e.g., from cold clouds"
+							Hail.md "e.g., from cumulonimbus"
+							Sleet.md "e.g., from mixed layers"
+							Freezing Rain.md "e.g., from warm-over-cold"
+							Blizzards.md "e.g., from snow/wind"
+							Drizzle.md "e.g., from stratocumulus"
+							Droplet Size Distribution.md "e.g., rain intensity"
+							Raindrop Formation.md "e.g., coalescence"
+						233HQG – Electrical
+							Lightning Strikes.md "e.g., from thunderstorms"
+							Thunder.md "e.g., from lightning"
+						233HQH – Visibility
+							Fog.md "e.g., from cooling/humidifying"
+							Mist.md "e.g., from light rain"
+							Rainbows.md
+						233HQJ – Wind Amplification
+							Derechos.md "e.g., from thunderstorm gusts"
+							Microbursts.md "e.g., from downdrafts"
+						Storm Surge.md
+						Flooding.md
+						Heatwaves.md
+						Cold Waves.md
+					233HR – Climates
+						Climate Components.md
+						Climate Spatial Scales.md
+						Climate Temporal Scales.md
+						233HRF – Climate Zones
+							Tropical Climate.md "e.g., Amazon Basin"
+							Subtropical Climate.md "e.g., Mediterranean"
+							Temperate Climate.md "e.g., Western Europe"
+							Subpolar Climate.md "e.g., Alaska"
+							Polar Climate.md "e.g., Arctic"
+							Arid Climate.md "e.g., Sahara"
+							Semiarid Climate.md "e.g., Sahel"
+							Continental Climate.md "e.g., Midwest USA"
+							Monsoon Climate.md "e.g., South Asia"
+							Mountain Climate.md "e.g., Andes"
+					233HS – Climate Dynamics
+						Global Circulation Patterns.md "e.g., Hadley Cell-specific"
+						El Niño Southern Oscillation.md "e.g., ENSO-specific"
+						La Niña Patterns.md
+						North Atlantic Oscillation.md "e.g., NAO-specific"
+						Pacific Decadal Oscillation.md "e.g., PDO-specific"
+						Arctic Oscillation.md
+						Southern Oscillation.md
+						Walker Circulation.md
+						Jet Stream Variability.md
+						Monsoon Dynamics.md "e.g., Indian-specific"
+						Thermohaline Influence.md "e.g., Atlantic-specific"
+						Climate Sensitivity.md
+						Radiative Forcing.md
+						Albedo Effects.md
+						Sea Ice Feedbacks.md
+					233HT - Climate Change
+						233HTF – Causes "Definition: Primary drivers and sources of climate change."
+							Greenhouse Gas Emissions.md "e.g., CO2 from fossil fuels"
+							Deforestation Impacts.md "e.g., carbon sink loss"
+							Industrial Processes.md "e.g., cement production emissions"
+							Agricultural Emissions.md "e.g., methane from livestock"
+							Land Use Changes.md "e.g., urbanization and soil degradation"
+							Transportation Emissions.md "e.g., vehicle exhaust"
+							Energy Production.md "e.g., coal-fired power plants"
+							Waste Decomposition.md "e.g., landfill methane"
+						233HTG – Mechanisms "Definition: Processes and feedbacks amplifying climate change."
+							Radiative Forcing Dynamics.md "e.g., greenhouse effect enhancement"
+							Carbon Cycle Alterations.md "e.g., reduced ocean uptake"
+							Albedo Feedback.md "e.g., ice melt reducing reflectivity"
+							Water Vapor Feedback.md "e.g., increased atmospheric moisture"
+							Methane Release Feedback.md "e.g., permafrost thaw"
+							Cloud Feedback Variability.md "e.g., cirrus cloud impacts"
+							Ocean Circulation Shifts.md "e.g., thermohaline slowdown"
+							Aerosol Interactions.md "e.g., cooling vs. warming effects"
+						233HTH – Effects "Definition: Observed and projected impacts on natural and human systems."
+							Global Temperature Rise.md "e.g., 1.5°C threshold"
+							Sea Level Rise.md "e.g., glacial melt contribution"
+							Extreme Weather Events.md "e.g., intensified hurricanes"
+							Drought Expansion.md "e.g., aridification trends"
+							Flooding Increase.md "e.g., monsoon intensification"
+							Ecosystem Disruption.md "e.g., coral bleaching"
+							Biodiversity Loss.md "e.g., habitat shifts"
+							Human Health Impacts.md "e.g., heat-related illnesses"
+							Agricultural Yield Changes.md "e.g., crop failure risks"
+							Economic Consequences.md "e.g., infrastructure damage"
+						233HTJ – Responses "Definition: Strategies, policies, and technologies to address climate change."
+							Mitigation Measures.md "e.g., renewable energy adoption"
+							Adaptation Strategies.md "e.g., sea walls for coastal cities"
+							Climate Policy Frameworks.md "e.g., Paris Agreement targets"
+							Carbon Sequestration Methods.md "e.g., afforestation projects"
+							Emission Reduction Technologies.md "e.g., carbon capture and storage"
+							Sustainable Agriculture Practices.md "e.g., precision farming"
+							Urban Planning Solutions.md "e.g., green infrastructure"
+							International Cooperation.md "e.g., IPCC reports"
+							Climate Education Initiatives.md "e.g., public awareness campaigns"
+							Geoengineering Proposals.md "e.g., solar radiation management"
+						233HTK – Monitoring & Assessment "Definition: Tools and methods for tracking and evaluating climate change. "
+							Climate Models.md "e.g., CMIP6 projections"
+							Temperature Monitoring.md "e.g., global anomaly datasets"
+							Sea Level Measurements.md "e.g., satellite altimetry"
+							Greenhouse Gas Tracking.md "e.g., atmospheric CO2 stations"
+							Extreme Event Analysis.md "e.g., attribution studies"
+							Ecosystem Health Indicators.md "e.g., species population trends"
+							Economic Impact Assessments.md "e.g., cost-benefit analyses"
+							Policy Effectiveness Metrics.md "e.g., emission reduction progress"
+					233HU – Paleoclimatology
+						Ice Core Records.md
+						Tree Ring Analysis.md
+						Sediment Records.md
+						Pollen Records.md
+						Coral Reef Records.md
+						Stalagmite Analysis.md
+						Paleoclimate Reconstructions.md
+			234 - Space
+				234A - Depot 
+					Unorganized Space Topics.md "e.g., unclassified phenomena, future discoveries"
+				234B - Assets 
+					Space Diagrams.md "e.g., cosmic scale charts" 
+					Celestial Maps.md "e.g., star charts, galaxy maps"
+				234D - Praxis 
+					Observational Techniques.md "e.g., telescopes, interferometry" 
+					Space Exploration.md "e.g., Voyager, Mars rovers" 
+					Data Analysis Methods.md "e.g., photometry, astrometry"
+				234Z - History 
+					History of Space Science.md "e.g., Ptolemy to modern cosmology" 
+					Milestones in Astronomy.md "e.g., Kepler’s laws, Hubble’s discovery"
+				234F - Cosmos
+					234FA - Depot 
+						234FAF - Observations 
+							Redshift Measurements.md "e.g., Hubble’s Law" 
+							Large-Scale Surveys.md "e.g., SDSS, DESI" 
+							Cosmic Background Explorer Data.md "e.g., COBE, WMAP"
+						234FAG - Linked Content 
+							General Relativity in Cosmology.md "link to 231FZ"
+						Modified Gravity Theories.md (e.g., MOND)
+					234FE - General 
+						Cosmological Principles.md "e.g., homogeneity, isotropy" 
+						Cosmic Timeline.md "e.g., Planck era to recombination" 
+						Cosmic Distance Scales.md "e.g., light-years, parsecs"
+						ΛCDM Model.md "standard cosmology"
+						Universe Chemical Composition.md
+					234FF - Origins & Evolution 
+						234FFF - Big Bang Theory 
+							Big Bang Theory.md 
+							Inflation.md "e.g., rapid expansion" 
+							Primordial Nucleosynthesis.md "e.g., H, He formation"
+						234FFG - Steady State Theory 
+							Steady State Theory.md "e.g., continuous creation"
+						234FFH - Cyclic & Oscillatory Models 
+							Cyclic Universe.md "e.g., oscillating models" 
+							Ekpyrotic Universe.md "e.g., brane collision"
+						234FFJ - Plasma Cosmology 
+							Plasma Cosmology.md
+						234FFK - Holographic Universe 
+							Holographic Universe.md "e.g., information theory"
+						234FFL - Multiverse Hypothesis 
+							Multiverse Hypothesis.md "e.g., inflationary bubbles"
+					234FG - Fundamental Components 
+						Space-Time Continuum.md "e.g., curvature, expansion" 
+						Quantum Fluctuations.md "e.g., seeds of structure"
+					234FH - Universal Phenomena 
+						Cosmic Microwave Background.md "e.g., Planck, COBE" 
+						Gravitational Waves.md "e.g., LIGO detections" 
+						Cosmic Neutrinos.md "e.g., relic neutrinos" 
+						Dark Energy Distribution.md "e.g., vacuum energy"
+						Dark Matter.md (e.g., gravitational lensing evidence)
+						Missing Mass Problem.md 
+				234G - Primordial Matter 
+					234GA - Depot 
+						Jeans Instability.md "e.g., cloud collapse" 
+						Planetesimal Accretion Models.md
+						234GAF - Observations 
+							Dust Detection.md "e.g., infrared astronomy" 
+							Comet Spectroscopy.md "e.g., water vapor" 
+							Meteor Tracking.md "e.g., radar observations"
+					234GE - General 
+						Primordial Formation Processes.md "e.g., recombination, cooling" 
+						Cosmic Abundance.md "e.g., H, He dominance"
+					234GF - Dust & Gas 
+						Interstellar Dust.md "e.g., grain sizes, composition" 
+						Primordial Gas Clouds.md "e.g., HII regions" 
+						Astrochemistry of Early Matter.md "e.g., H2, CO formation"
+					234GG - Meteors & Meteoroids 
+						Meteor Composition.md "e.g., stony, iron" 
+						Meteor Showers.md "e.g., Perseids, Leonids" 
+						Meteorite Impact Records.md "e.g., Allende meteorite"
+					234GH - Comets 
+						Cometary Nuclei.md "e.g., 67P/Churyumov-Gerasimenko" 
+						Cometary Orbits.md "e.g., Oort Cloud, Kuiper Belt" 
+						Cometary Tails.md "e.g., ion vs. dust tails"
+						Tisserand Parameter.md "comet dynamics"
+					234GJ - Planetesimals 
+						Planetesimal Formation.md "e.g., accretion disks" 
+						Asteroid Belts.md "e.g., Main Belt precursors" 
+						Kuiper Belt Objects.md "e.g., Pluto, Eris"
+				234H - Stars 
+					234HA - Depot 
+						Hertzsprung-Russell Diagram.md 
+						234HAF - Observations 
+							Stellar Spectroscopy.md "e.g., Doppler shifts" 
+							Variable Stars.md "e.g., Cepheids, RR Lyrae" 
+							Binary Star Systems.md "e.g., eclipsing binaries"
+					234HE - General 
+						Stellar Evolution Models.md "e.g., MESA code"
+						Stellar Classification.md "e.g., OBAFGKM" 
+						Stellar Populations.md "e.g., Pop I, Pop II, Pop III"
+					234HF - Stellar Physics (Astrophysics) 
+						Stellar Interiors.md "e.g., fusion processes" 
+						Stellar Atmospheres.md "e.g., corona, chromosphere"
+					234HG - Stellar Evolution (Astrophysics) 
+						Protostars.md "e.g., T Tauri stars" 
+						Main Sequence.md 
+						Post-Main Sequence.md "e.g., giants, supergiants" 
+						Stellar Remnants.md "e.g., white dwarfs, neutron stars"
+					234HH - Astrochemistry in Stars (Astrochemistry) 
+						Nucleosynthesis.md "e.g., triple-alpha process" 
+						Stellar Winds.md "e.g., element dispersal" 
+						Dust Formation.md "e.g., carbon stars"
+					234HJ - Stellar Phenomena (Astrophysics, Astronomy) 
+						Supernovae.md "e.g., Type Ia, Type II" 
+						Pulsars.md 
+						Black Holes.md "e.g., stellar-mass" 
+						Novae.md "e.g., binary eruptions"
+					234HK - Sol 
+						Sun’s Structure.md "e.g., core, photosphere" 
+						Solar Cycle.md "e.g., sunspots, flares" 
+						Solar Phenomena.md "e.g., prominences, coronal mass ejections"
+					234HL - Exostars 
+						Betelgeuse.md "e.g., red supergiant" 
+						Rigel.md "e.g., blue supergiant" 
+						Sirius.md "e.g., brightest star" 
+						Vega.md "e.g., main sequence A-type"
+					234HM - Constellations (Astronomy) 
+						Constellation Catalog.md "e.g., Orion, Ursa Major" 
+						Historical Constellations.md "e.g., zodiac" 
+						Star Naming.md "e.g., Bayer, Flamsteed systems"
+				234J - Planets 
+					234JA - Depot 
+						Planetary Migration.md "e.g., Grand Tack" 
+						Tidal Locking.md
+						234JAF - Observations 
+							Planetary Spectroscopy.md 
+							Transit Photometry.md "e.g., Kepler mission"
+					234JE - General 
+						Planetary Formation.md "e.g., core accretion" 
+						Planetary Differentiation.md "e.g., mantle-crust"
+					234JF - Planetary Structure (Planetology, Astrophysics) 
+						Interiors.md "e.g., metallic cores" 
+						Surfaces.md "e.g., regolith, tectonics"
+					234JG - Planetary Atmospheres (Planetology, Astrochemistry) 
+						Atmospheric Composition.md "e.g., N2 on Titan" 
+						Atmospheric Dynamics.md "e.g., Great Red Spot" 
+						Exospheres.md "e.g., lunar exosphere"
+					234JH - Small Bodies (Planetology, Astronomy) 
+						Moons.md "e.g., Europa, Enceladus" 
+						Asteroids.md "e.g., Ceres, Vesta" 
+						Comets.md "e.g., 67P/Churyumov-Gerasimenko"
+					234JJ - Planetary Phenomena (Astrophysics, Planetology) 
+						Rings.md "e.g., Saturn’s rings" 
+						Magnetospheres.md "e.g., Earth’s Van Allen belts" 
+						Impact Events.md "e.g., Chicxulub crater"
+					234JK - Planets 
+						Earth Link.md
+						Mercury.md 
+						Venus.md 
+						Mars.md 
+						Jupiter.md 
+						Saturn.md 
+						Uranus.md 
+						Neptune.md
+					234JL - Exoplanets (Astronomy, Planetology) 
+						Exoplanet Types.md "e.g., hot Jupiters, super-Earths" 
+						Habitability.md "e.g., Goldilocks zone" 
+						Notable Exoplanets.md 
+							Proxima Centauri b.md "e.g., closest exoplanet" 
+							Kepler-22b.md "e.g., in habitable zone" 
+							TRAPPIST-1e.md "e.g., terrestrial candidate" 
+							HD 189733b.md "e.g., deep blue exoplanet"
+				234K - Solar Systems 
+					234KA - Depot 
+						234KAF - Observations 
+							Transit Observations.md "e.g., exoplanet detection" 
+							Radar Imaging.md "e.g., asteroid mapping"
+						234KAG - Linked Content 
+							Link Kepler’s Laws.md "link to 231J"
+					234KE - General 
+						Solar System Formation.md "e.g., nebular hypothesis" 
+						System Stability.md "e.g., orbital resonances"
+					234KF - Structure (Astronomy, Planetology) 
+						Inner Regions.md "e.g., terrestrial zones" 
+						Outer Regions.md "e.g., gas giant zones" 
+						Edge Regions.md "e.g., Kuiper Belt, Oort Cloud"
+					234KG - Dynamics (Astrophysics) 
+						N-Body Simulations.md 
+						Perturbations.md "e.g., Jupiter’s influence" 
+						Migration Theories.md "e.g., Nice Model"
+					234KH - Phenomena (Astrophysics, Astronomy) 
+						Asteroid Belts.md "e.g., Main Belt" 
+						Cometary Orbits.md "e.g., Halley’s Comet" 
+						Meteor Showers.md "e.g., Perseids"
+					234KJ - Sol System (Astronomy, Planetology) 
+						Sun’s Role.md "e.g., solar wind, heliosphere" 
+						Planetary Orbits.md "e.g., eccentricity, inclination" 
+						Solar System Boundaries.md "e.g., heliopause"
+					234KK - Exosystems 
+						TRAPPIST-1 System.md 
+						Kepler-90 System.md 
+						HD 10180 System.md
+				234L - Galaxies 
+					234LA - Depot 
+						234LAF - Observations 
+							Galaxy Surveys.md "e.g., 2dF Galaxy Redshift Survey" 
+							Active Galactic Nuclei.md "e.g., quasars, Seyfert galaxies"
+					234LD - Praxis 
+					234LE - General 
+						Galaxy Classification.md "e.g., Hubble sequence" 
+						Galactic Evolution.md "e.g., star formation history" 
+						Hierarchical Galaxy Formation.md
+					234LF - Galactic Structure (Astronomy, Astrophysics) 
+						Spiral Galaxies.md "e.g., arms, bars" 
+						Elliptical Galaxies.md 
+						Irregular Galaxies.md "e.g., Magellanic Clouds"
+					234LG - Galactic Dynamics (Astrophysics) 
+						Galactic Dynamics Models.md "e.g., Toomre stability" 
+						Rotation Curves.md "e.g., dark matter evidence" 
+						Galaxy Mergers.md "e.g., Antennae Galaxies" 
+						Tidal Interactions.md
+					234LH - Interstellar Medium (Astrophysics, Astrochemistry) 
+						Gas Phases.md "e.g., HII regions, molecular clouds" 
+						Dust Physics.md "e.g., grain composition" 
+						Astrochemistry in Galaxies.md "e.g., CO, H2, PAHs"
+					234LJ - Galactic Phenomena (Astrophysics, Astronomy) 
+						Nebulae.md "e.g., Orion Nebula, Eagle Nebula" 
+						Supernova Remnants.md "e.g., Crab Nebula" 
+						Star-Forming Regions.md "e.g., Carina Nebula"
+					234LK - Milky Way Galaxy 
+						Milky Way Structure.md "e.g., disk, bulge, halo" 
+						Galactic Center.md "e.g., Sagittarius A*" 
+						Milky Way Arms.md "e.g., Perseus Arm, Orion Spur"
+					234LL - Exogalaxies 
+						Andromeda Galaxy (M31).md 
+						Triangulum Galaxy (M33).md 
+						Whirlpool Galaxy (M51).md 
+						Sombrero Galaxy (M104).md 
+						Centaurus A.md
+				234M - Intergalactic Phenomena  
+					234MA - Depot 
+						234MAF - Observations 
+							Intergalactic Medium Surveys.md "e.g., X-ray observations" 
+							Filament Mapping.md "e.g., Sloan Great Wall"
+					234ME - General 
+						Intergalactic Medium.md "e.g., warm-hot intergalactic medium" 
+						Cosmic Filaments.md "e.g., galaxy bridges"
+					234MF - Voids & Structures 
+						Cosmic Voids.md "e.g., Boötes Void" 
+						Intergalactic Bridges.md "e.g., connecting galaxy clusters"
+					234MG - Phenomena 
+						Dark Matter Halos.md "e.g., gravitational lensing effects" 
+						Intergalactic Magnetic Fields.md "e.g., Faraday rotation"
+					234MZ - Theories & Laws 
+						Large-Scale Structure Formation.md "e.g., gravitational collapse" 
+						Baryon Acoustic Oscillations.md
+				234N - Exotic Cosmology  
+					234NA - Depot 
+						234NAF - Observations 
+							Cosmic String Searches.md "e.g., gravitational wave signatures" 
+							Wormhole Hypotheses.md "e.g., gravitational anomalies"
+						Topological Defects.md "e.g., cosmic string formation" 
+					234NE - General 
+						Cosmic Strings.md "e.g., topological defects" 
+						Wormholes.md "e.g., Einstein-Rosen bridges"
+					234NF - Exotic Phenomena 
+						Primordial Black Holes.md "e.g., early universe remnants" 
+						Axion Fields.md "e.g., dark matter candidates"
+					234NG - Theoretical Entities 
+						White Holes.md "e.g., time-reversed black holes" 
+						Domain Walls.md "e.g., phase transition relics"
+		240 - Life
+			240A - Depot
+			240E - General
+				240EF - Taxa
+					Taxonomic Groups.md
+					Cladistic classification.md
+					Phrenetic classification.md
+					Phylogenetic classification.md
+				240EG - Life
+					Life.md
+					Properties of life.md "Order & form, Metabolism, Sensory reception, Reproduction - growth - development, Interaction with the environment"
+					Levels of biotic organization.md
+					Death.md
+					Abiogenesis.md
+					Life control processes.md
+				240EZ - Organism Types
+					Prokaryotes.md
+					Eukaryotes.md
+					Archaea.md 
+				240EZ - Control
+					Molecular control.md
+					Cellular control.md
+					Organ control.md
+			241 - Biology
+				Biophysics "Specific biophysics applications will be much closer to the token or one type/ class above it"
+				241G - Biochemistry
+					241GF - Biomolecules
+						241GFF - Carbohydrates
+						Lipids
+						Proteins
+						Vitamins
+						Enzymes
+						Hormones
+						Biochemical Energy "ATP, CP, et.c"
+						Nucleic Acids
+					Metabolism "fill this section out"
+						Catabolism.md
+						Anabolism.md
+					
+				Cell Biology
+					Cells.md
+				Genetics
+				Evolutionary Biology
+			242 - Microbiology
+				Virology
+				Bacteriology
+				Parasitology
+			243 - Botany
+			244 - Zoology
+				Mammalogy "mammals"
+				Ornithology "birds"
+				Entomology "insects"
+				Herpetology "reptiles and amphibians"
+				Ichthyology "fish"
+			245 - Biosphere
+				Preconditions of the biosphere: the Earth as an ideal medium for life
+				[see 312.A.2.]
+				2. The levels of organization within the biosphere: the biocycle, the ecosystem, the community,
+				the population
+				[see 352.A. and C.: 354]
+				3. Energy flow in the biosphere
+				4. Cycling of matter in the biosphere
+				The general pattern of chemical cycles in nature
+				[see also 214.C.]
+				b. The carbon and oxygen cycles
+				c. The nitrogen cycle
+				d. The sulfur cycle
+				e. The water cycle
+				[see also 222.D.]
+				f. The sedimentary cycles of essential minerals
+				5. The concept of the noosphere: mankind's place in the biosphere
+				
+				The ecosystem: a collection of integrated communities and their environment
+				I. Definition of an ecosystem
+				2. The biotic components of the ecosystem
+				a. Producers
+				b. Consumers
+				c. Decomposers
+				3. The abiotic components of the ecosystem
+				a. Pressure and temperature
+				[see 223.E.1.]
+				b. Radiation
+				c. Illumination
+				d. Water and soil characteristics, salts
+				e. Wave action: wind and water
+				f. Fire as a limiting factor
+				4. The conditioning of the abiotic environment by living organisms
+				5. The effect of microenvironments on the ecosystem
+				6. Processes that determine the nature and productivity of the ecosystem
+				7. Types of ecosystems
+				
+			246 - Paleontology
+		250 - Human - Human Life - Anthropos
+			Personhood
+			Human Biology - Anthropobiology
+				Human Biochemistry
+				Human Evolution
+			Human Behavior - Psychology - Anthropopathy
+		260 - Society
+		270 - Art
+		280 - Technology
+	300 - Ethics
+	400 - Aesthetics
+	500 - Applied Arts
+	600 - Applied Sciences
+	700 - Personal
+		Calendar
+	800 - Products
+		800F - Active
+		800G - Built 
+		800H - Ongoing
+	900 - Assets
+		9F - Templates "A Templates smart folder and MOC should be placed here so they can be easily reviewed when building new notes. I might not remember that I have a template for something or where that template may be otherwise. Templates should be labeled "Descriptor Code Template.md"; the "Descriptor" is the name of Core General Note; and the "Code" is the Alphanumeric Code where the Core General Note resides, NOT where the Template resides (e.g. Molecule 232EF Template.md; this template resides in the folder titled 232EFB Assets, the Core General Note is titled Molecule.md and resides in folder titled 232EF Molecular Fundamentals). If I do decide to organize them within the hierarchy I can do a search for Template.md and get an alphabetical list of them wherever they may be located and I can isolate based off of domain. The Template itself will be located in the Assets folder that is collocated with the Core General Note regarding the Template (e.g. Molecule.md is located in 232EF. The Assets folder for 232EF is 232EFB. Therefore the template will be located in 232EFB and titled as Molecule 232EF Template.md)"
+01 Template MOC.md

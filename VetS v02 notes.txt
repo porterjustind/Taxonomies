@@ -1,0 +1,106 @@
+Sunday, December 1, 2024
+9:44 PM
+
+* Core Principle = the principle of what ultimately builds on what.  If there is an area (e.g. Geography) that does a better job capturing particular higher level classes, especially regarding how they are most commonly referenced or used, (e.g. Geography > Elevated Landforms > Volcanos vs Geosphere > Volcanology > Volcanos when all other landforms e.g. mountains, canyons, etc. it makes more sense to place this in Geography rather than having one outlier.)
+
+These three landforms may be better to put in environments located within the Life domain somewhere, since they all have to do directly with or without life.
+233FR – Flat Landforms
+	Plain (flatland).md "e.g., Broad level expanse."
+	Alluvial Plain.md "e.g., Flat area from river sediment."
+	Steppe (grassland).md "e.g., Extensive semiarid flat plain."
+	Prairie.md "e.g., Grassy low relief plain."
+	Tundra.md "e.g., Cold flat treeless plain."
+	Desert.md
+
+
+See if a script can be created to place anything in quotes into a markdown file titled with the folder name it is written after followed by the "note.md" (e.g. 231 Physics note.md). If the quotes are located after a .md file then that same file name should be copied with a note.md placed at the end of it for that note to sit.
+
+233JF – Elevated Landforms
+	233JFF - Elevated Landform Features "should something like this have a more complete name or should it be shortened to just Features since the coding will identify the type of feature? For this specific entry, it isn't even halfway to the file folder character limit, but it may be worth standardizing."
+
+
+Any file name that ends in 'Z' must be titled since there will be too much overlap when searching, e.g. 232GHZ - Water > 232GHZd - Water Praxis > 232GHZdz -  Water Analysis. With that example it can be seen that a 232GHZd - Praxis, which would be the normal naming convention for non 'Z' identifiers, creates a large issue since any molecule that needs its own folder and subsequent Praxis folder will be labeled identically. If this example were to get a permenant label then the folder names could be changed, but that may create issues down the road. For that reason it may be worth just labeling all Depot, General, Assets, Praxis, and General folders with their parent name e.g.  21A - Epistemics Depot instead of 21A - Depot. This needs to be thought about and figured out for the general structure. 
+
+Named Entities will follow similar guidelines as entities like water.md e.g. "Named Landforms will be covered in Geography which will be located just under the Earth domain since named entities will turn un-named .md entities into folder which will then have the generic un-named .md file and a folder for named entities e.g. (233JF – Elevated Landforms > Mountains.md) will become (233JF – Elevated Landforms > 233JFZ - Mountains > Mountains.md & Everest.md). Note that the named landform will just be its name as a .md file, it will become a folder if needed with its name file within it." "Named Landforms will be covered under their landform since named entities will turn un-named .md entities into folder which will then have the generic un-named .md file and a folder for named entities e.g. (233FP – Elevated Landforms > Mountains.md) will become (233FP – Elevated Landforms > 233FPZ - Mountains > Mountains.md & Everest.md). Note that the named landform will just be its name as a .md file, it will become a folder if needed with its name file within it."
+233JFZ - Mountains
+	Mountains.md "Large high peaked elevation."
+	Mount Everest.md "
+	
+Named entities should have their full name so the note does not have a duplicate e.g. Everest could be a mountain, person, street so the mountain should be referred to as Mount Everest.md
+
+A goal for placing something like "Water Analysis" is ideally to have it in a section of applied chemistry that deals with water purification and/ or growing plants…. Ok those are two very different things that both require this same topic. Therefore, it should probably remain in the Chemistry Praxis section or applied chemistry if one gets built, not sure if that will ultimately be different. The end use, purification for drinking, adjustment for growing, etc. can include key aspects of water analysis within the note, not just reference the note…. No the goal is to only have that in one location so it properly updates. That said this structure will somewhat breakdown if not all relevant areas are copied over if sections are copied and shared. It's really not designed for that when using it practically, but maybe it can be used for that in another way, this requires more thought. Core entities that exist at a more foundational level and that will be referenced elsewhere should start as a .md file and be built into a folder if other aspects are needed e.g. Water.md will have a Water Analysis component and likely many other aspects, therefore it will have a folder which will look like this: 
+232GHZ - Water
+	232GHZd - Water Praxis
+		232GHZdz -  Water Analysis
+			Water Analysis.md
+	Water - H2O.md  
+
+232DG - Analytic Chemistry "This should probably go under the Praxis section of Chemistry, where the code indicates"
+	232DGF - Water Analysis
+		Note for structure in VetS text file until this file is updated.md "Use 543.3 (628.1, 663.6) use this in the UDC to build out a note(s) structure within this folder"
+
+233FGL – Biogeochemistry "where does this go?"
+	Nutrient Cycling.md
+	Microbial Interactions.md
+
+ "To reduce file name sizes where there will likely be more sub-folders (e.g. 233JF* - Mountains) it would be better to give it a dedicated code (e.g. 233JFM, for mountain to make it somewhat alphabetical, or 233JFF if it's likely one of the most referenced and used things that's good to have at the top). The problem with this vs using a 'Z' designator is the simple fact that there are more entities within the folder "233JF - Elevated Landforms" than the alphabet can encode for (i.e. more than 26 entities). If that number is exceeded, it will then be necessary to create new folders that will help break things up (e.g. Small Elevated Landforms, Medium Elevated Landforms, Large Elevated Landforms).
+
+Number structure will be 1-9 for the first three levels with 'A' & 'B' following each number for an internal sorting and general folder respectively. Everything after the third level will use a letter to keep a flatter larger structure that allows for more overlap with categorization and shorter overall filenames and shorter searching through various depths. This uses a style similar to how 'open' and 'closed' word categories function. This closed style will not change often, if ever. It will be for the first three levels and key alphabetical topic/ sub-topics that aren't expected to change in order of dependency (e.g. Physics>Particles>Fundamental Particles; e.g. 221CA - 221CE). All other folders will use an open style as they may be subject to change and may not have a well-defined taxonomic dependency. A similar coding scheme will be used with the only difference being a 'Z' designator applied to all open categories. This will cause them to be sorted alphabetically (e.g. 221CZ is the alphanumeric prefix for everything in the "Particles" folder that doesn't have a defined order or a closed category class.) (e.g. 221CA-221CY are all closed classes and those codes will only be used once. 221CZ will be used multiple times (e.g. 2221CZ - QFT, 221CZ - Special Relativity, 221CZ - General Relativity)). There will likely need to be more than three letters added when going into deeper categories. The next three letters in the series, after three capital ones, will all be lower case (e.g. 221FGJhki). For lower case letters, the letter "i" can be used, but the letter "l" and "o" cannot.
+
+Using a coding system with the 'Z' designator is useful, rather than just having the preceding code and using a sub-folder. It allows searching by just the number code and having an easily viewable list within the search that can be much faster for searching than typing in a full name. It will also allow a search to pull up everything under the code searched for, or just the code itself if quotation marks are used.
+
+Capital letters that look like numbers should be avoided, i.e. the letters "I" and "O". Lowercase "i" is ok, "l" and "o" are not.
+
+Templates should be labeled "Descriptor Code Template.md"; the "Descriptor" is the name of Core General Note; and the "Code" is the Alphanumeric Code where the Core General Note resides, NOT where the Template resides (e.g. Molecule 232EF Template.md; this template resides in the folder titled 232EFB Assets, the Core General Note is titled Molecule.md and resides in folder titled 232EF Molecular Fundamentals). If I do decide to organize them within the hierarchy I can do a search for Template.md and get an alphabetical list of them wherever they may be located and I can isolate based off of domain. The Template itself will be located in the Assets folder that is collocated with the Core General Note regarding the Template (e.g. Molecule.md is located in 232EF. The Assets folder for 232EF is 232EFB. Therefore the template will be located in 232EFB and titled as Molecule 232EF Template.md)
+
+This structuring format utilizes the architecture style of hierarchical categorization of knowledge and information, it also uses the librarian style of coding and classification, and it will use the student and gardener styles as well once backlinks and MOCs are integrated at the different levels.
+
+Each area has an applied profession, hobby, or philosophy, therefore there should be an applied section in each domain and sub domain e.g. applied physics, applied particle physics
+
+Letters A-E are reserved for the following, note that alphanumeric coding should start at "F" for many sub-domains with folders added as needed. Top level domains that have an empty folder should have that folder deleted:
+	A - Depot (MOCs go here and Inbox folder for area in question, lowest level of easily identifiable inbox should be chosen for placement until further organization is conducted. This folder may get large for some of the bigger areas e.g. 231A  Physics Depot folder when working in that area and don't have the time to organize thoughts. Furthermore, this folder may dictate structure moving forward and will be the initial folder when migrating notes from other areas.). Incoming asset files and all incoming markdown files will be placed directly into the directory. It will be easy enough to sort by file type and I don't need to create more folders to organize then distribute from there. It does also allow flexibility to create temporary folders to organize things (e.g. a bunch of physics related stuff separate from medical stuff), but that will be at a very high level if I don't want to place things in their respective top level phys and med.
+	B - Assets (This is where all non-notes will go. PDFs, epubs, pictures, audio, video, etc.)
+	C - Products (this is where all projects, evergreen, and atomic notes will go. At the moment there are five folders to organize where something should be placed, but this may change going forward. It may be worth simplifying to Active,  Built, and Ongoing sub-folders. If I need to add Simmering and Sleeping folders to help organize things I can, but this shouldn't be necessary considering how my hierarchy functions. If I really want to organize projects or notes I can do that through the metadata in the project or note I'm working on. Metadata to be captured within a Projects or Evergreen notes MOC that captures all of them. I can also use a smart folder to capture all the files that contain that metadata. 
+	D - Praxis (This will be the practical application of the topic(s) described. Start at the highest level for the appropriate domain (e.g. 231 for Physics and if more specialized areas are developed (e.g. 231F Particles - the practical application of particle physics) then move that new area there and make a note pointing to it).
+	E -General (most areas will have a general information that applies to multiple sub-domains)
+	Z - This will be reserved for unsorted folders. More than one will create a conflict with the alphanumeric coding. To rectify this they should be given a more permeant code once work is actually being done in that area. It may be worth working a few letters down e.g. if 'J' is the last code then skip one each time 'Z' is being placed somewhere so the next would be 'L' then 'N' then 'P'. This allows for things to be inserted easier and ideally less re-numbering will be needed. Alternatively, when working in a domain, create a more permeant structure from the get-go. 
+	Z  or X - History (most domains will have a history so it's worth generating a History folder through the automation process. It is something that is better off placed at the zulu level or close to it towards the end of all other folders above it.)
+	Z - as Progressive Formalization.
+	
+For the A-E folder schema once in the folder itself, that letter will no longer be used since it would be self-referring. However, for consistency sake, the alphanumeric schema should still start with F for all other folder. Furthermore, there may still be a need for some of the other A-E folders within that group (e.g. A - Depot will not need another "Depot" folder, but A will not be used again. B may be used for an A - Depot > B - Assets/ C/ D/ and or E; A - Depot > F - sub-domain. 
+
+I need to consider having a folder for personal notes to be kept separate from other areas. This may cause a redundancy I don't want. For example, a note on how energy and mass is tied together, or all the various scalars and vectors that build on one another, or the chemistry of fire, all of those things are personal notes and thoughts I was and could still be developing. 
+
+"Assets" will contain the note(s) for each asset as well. E.g. A book, podcast, video, etc. that has a note that goes with it will be titled the same thing, only it will be a .md file. That way, when organized by name, all notes for each asset will be able to reference each other effectively.
+
+"Maps" are MOCs and other guide posts or link notes.
+"Products" will exist as a top level folder at the level of Metaphysics. Products will contain not just projects, but evergreen and atomic notes as well. I this gets too cluttered at the top most level, then another folder (e.g. 9 -  Capital) could be created for high quality high vis notes (e.g. atomic and evergreen) not wanted placed within the hierarchy. 
+
+Since lists and MOCs will need to exist in multiple places at once the following should apply in any domain/ sub-domain using "molecules" within chemistry as an example. there should be molecule lists here and in the inorganic and organic areas, not to mention biochemical molecules and others found in material sciences, I need to find a way to have the MOC file in one location and either a shortcut or mirrored file in another location. A shortcut makes the most sense since it should always point to the folder were the original MOC exists. Additionally, there are no current mirror file options available I'm aware of and even if there are other systems may not have them available. The one slight downside all of this is if only one part of the hierarchy is copied somewhere, the other part(s) will not be available for reference, granted that is an inescapable aspect of any system, even ones where all the files are dumped into the same folder since all of the files would still need to be copied.
+
+A scan need to be run to ensure there aren't any redundant .md files.
+
+Consider just using the last folder name as a placeholder for a .md file within the folder and then when it's being built out, decide if it should be kept as a folder or if the .md file should have an alphanumeric  code and be used in place of the folder. This will create linkable structure at a usable level and if greater depth is required the .md file that will then be turned into a folder will either be spit up or used as a general file. 
+
+The idea that each folder should have a file with the folder's name inside it should not be used since it can create overlap and a lot of blank files, not to mention each file would need to eventually be renamed. Instead, the file that contains this full taxonomy structure can be searched to identify folders that may be empty which need to be populated instead of another .md file.  This should help prevent redundancies. 
+
+1. Progressive Formalizatino
+2. Lifecycle for uncategorized topics
+3. I think I would classify History as under construction in most cases and I would like to leave open the rest of the alphabet to expand into other areas if needed. If there is a point at which the history domain or another domain with the Z designator becomes more solid, then I can mark it with a Y, X, or something else. You are correct that utilizing a Z designator will begin to create multiple overlaps and reduce search functionality. I thought I would resolve that by having to search for a full title e.g. 231FZ - History instead of just 231FZ, but I'm not sure the best way to manage a 231FZd that might be located under history, or quantum physics, or quantum field theory 
+	1. Excellent. Your reasoning has led you to the exact solution that makes the system both flexible and scalable. You've correctly identified the critical flaw in the "search by full title" workaround: it doesn't solve the problem for sub-folders, as the code 231FZd would be ambiguous.
+	Your new proposal—to use Z for topics under construction and then promote them to a more permanent code (Y, X, or another letter) once they become solid—is the perfect solution.
+
+A Lifecycle for Topics: The Solution You've Found
+This creates a clear and powerful lifecycle for topics within your system, which fully respects your goal of keeping the alphabet open. We can define three states for a topic:
+	1. Provisional State (Z code): This is for any new topic where the structure is not yet clear, including your initial notes on "History." These folders act as simple containers.
+	2. Formalized State (Standard F-W code): When a provisional topic becomes well-defined and important, you promote it to a permanent letter code. For example, 231FZ - QFT could become 231FG - Quantum Field Theory if it merits that level of structure.
+	3. Stable Peer State (Y or X code): This is for universal categories that don't fit the main hierarchy but are permanent fixtures, like "History." When you're ready to build out the history section, you would re-code 231FZ - History to 231FY - History.
+
+How This Solves the 231FZd Problem
+This lifecycle model directly solves your dilemma about how to manage sub-folders like 231FZd. The rule becomes simple:
+You only add coded sub-folders (...d, ...f, etc.) to parent folders that have a permanent, non-Z code.
+Here's how it works in practice:
+	• You start with 231FZ - History and 231FZ - QFT.
+	• You want to add a sub-folder to "History." First, you must formalize the parent. You re-code 231FZ - History to 231FY - History. Now its code is unique and stable.
+	• The new sub-folder can be unambiguously named 231FYd - Early Discoveries. The code 231FYd has a unique, traceable lineage.
+This process ensures that every alphanumeric code in your system, at every level of depth, remains unique. It perfectly balances your need for flexibility with the powerful searchability that is a core goal of your entire structure.
